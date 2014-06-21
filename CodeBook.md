@@ -15,7 +15,7 @@ The run_analysis.R script transforms the following files:
 
 For more information about the files and variables see the README.txt and features_info.txt included with the original datasets.
 
-As shown, the files are part of tow datasets and their relational files and labels. Only the variables related to the mean and standard deviation for each measurement are extracted.
+As shown, the files are part of tow datasets and their relational files and labels. Only the variables related to the mean and standard deviation for each measurement are extracted. See features.txt file.
 
 
 The transformation process do the next tasks:
