@@ -35,6 +35,8 @@ The transformation process do the next tasks:
     5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 
+Detailed information about the transformations at the remarks inside the run_analysis.R script.
+
 After run the run_analysis.R script you will get two files with tidy datasets for further analysis.
 
 The output files are:
