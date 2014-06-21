@@ -1,3 +1,7 @@
+CodeBook
+V1.1
+============
+
 The run_analysis.R script transforms the following files:
 
 
@@ -24,7 +28,7 @@ The transformation process do the next tasks:
     5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 
-After run the run_analysis.R script you will get two files with tidy datasets for furhter analisys.
+After run the run_analysis.R script you will get two files with tidy datasets for further analysis.
 
 The output files are:
 
@@ -32,10 +36,13 @@ tidyfull.csv - Big data set.
 tidyavg.csv -  Second data set (task 5), with average data.
 
 
-For a full description of columns extracted see features.txt file included w
+For a full description of columns extracted see features.txt file included with dataset.
+
+Running the script
+==================
 To run the run_analysis.R script
 
-Insdie R:
+Inside R:
 
 
 > source("run_analysis.R")
@@ -51,9 +58,6 @@ $ Rscript run_analysis.R
 In both cases the output files will be at working directory.
 
 
-
-
-
 License:
 ========
 The run_analysis.R script is an original programming work done with specifications at the coursera "Getting and Cleaning Data"
@@ -66,6 +70,6 @@ Use of this dataset in publications must be acknowledged by referencing the foll
 
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
-This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
+This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited by the original authors.
 
 
