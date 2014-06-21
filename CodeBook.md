@@ -9,7 +9,7 @@ The run_analysis.R script transforms the original Samsung Data Set at:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
-From the whole colection of files whe use the following files:
+From the whole collection of files, the script use the following files:
 
 
 1. activity_labels.txt : Links the class labels with their activity name.
