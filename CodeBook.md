@@ -1,6 +1,6 @@
 CodeBook
-V1.1
 ============
+V1.1
 
 The run_analysis.R script transforms the following files:
 
